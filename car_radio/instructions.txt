@@ -1,0 +1,21 @@
+--------------------------------------------------------------------
+-----------Welcome to this little 'automated' car program-----------
+
+In the beginning of the code you can set the parameters of the program,
+like:
+- the source of the video input
+- flip the video along the y-axis
+- record the video
+- slowing down the movement of the car
+
+--------------------------------------------------------------------
+In the program first you can calibrate car. Here you have to set the
+sliders to the widest range where they only show the tracking colors.
+
+After that the main program starts where you can either control the 
+car by selecting a goal for the it (by clicking or the screen.) Or you
+can just let it drive itself. Ypu can switch between the two modes by
+clicking with the right mouse button.
+
+---------------------------------Enjoy!---------------------------------
+------------------------------------------------------------------------
