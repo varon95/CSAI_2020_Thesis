@@ -14,4 +14,4 @@ In this project, I investigated simulation to real world knowledge transfer. I t
 ## Results
 The agent was able to control the real-world car, after training only on a simulation.
 
-**You can read more about the project im my [master's thesis](https://github.com/varon95/CSAI_2020_Thesis/blob/master/AZVaradi_Thesis_CSAI_2020.pdf)**
+**You can read more about the project in my [master's thesis](https://github.com/varon95/CSAI_2020_Thesis/blob/master/AZVaradi_Thesis_CSAI_2020.pdf)**
